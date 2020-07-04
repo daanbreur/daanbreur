@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on STREAMOVERLAYS <My Twitch>(http://twitch.tv/portaalgaming)
+- 🔭 I’m currently working on STREAMOVERLAYS [My Twitch](http://twitch.tv/portaalgaming)
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on ChatBlocks @Instafluff
 
