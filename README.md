@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on STREAMOVERLAYS [My Twitch](http://twitch.tv/portaalgaming)
-- 🌱 I’m currently learning Angular
-
 <!--
 **daanbreur/daanbreur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
