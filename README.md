@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am Daan Breur. I love Javascript. </br>
+See my pins to see where im currently working on 😄 </br>
+
+
+- 👯 I’m collaborating on [ChatBlocks](http://github.com/Instafluff/ChatBlocks) by [@Instafluff](http://github.com/Instafluff). See [My Fork](http://github.com/daanbreur/ChatBlocks) to see what i added :D
+
+
 
 <!--
 **daanbreur/daanbreur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
