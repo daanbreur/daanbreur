@@ -33,24 +33,18 @@
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <br />
 
 📕 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 <br />
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-```
-currently dissabled
-```
 <!-- YOUTUBE:END -->
 
 ---
@@ -62,5 +56,3 @@ currently dissabled
 [website]: https://daanbreur.systems
 [twitter]: https://twitter.com/portaalg
 [youtube]: https://youtube.com/channel/UCGWs9foruVqIoEf2sLBfJAg
-
-
