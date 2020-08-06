@@ -31,10 +31,17 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+📺 **Latest YouTube Videos**
+<!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="daanbreur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daanbreur&show_icons=true&hide_border=true" />
 
