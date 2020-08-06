@@ -1,4 +1,4 @@
-### Hi there, I'm [Jesse][website] 👋
+### Hi there, I'm [Daan][website] 👋
 
 - 🔭 I’m currently working on ChatBlocks
 - 🌱 I’m currently learning Vue, React
