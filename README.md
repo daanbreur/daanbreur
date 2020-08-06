@@ -35,13 +35,22 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-📺 **Latest YouTube Videos**
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<br />
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br />
+
+📺 **Latest YouTube Videos**
+<!-- YOUTUBE:START -->
+```
+currently dissabled
+```
+<!-- YOUTUBE:END -->
+
+---
 
 <img align="left" alt="daanbreur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daanbreur&show_icons=true&hide_border=true" />
 
