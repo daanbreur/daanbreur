@@ -50,9 +50,10 @@ No Activity tracked this Week
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-```text
-Disabled...
-```
+- [Day #3 - Client Development](https://www.youtube.com/watch?v=u42-501oxQ4)
+- [Sneakpeak #2 - Client Development](https://www.youtube.com/watch?v=bRAsGe3oKrg)
+- [Day #2 - Client Development](https://www.youtube.com/watch?v=edXhZIjdceM)
+- [Day #1 - Client Development](https://www.youtube.com/watch?v=xy1Z77iuLWE)
 <!-- YOUTUBE:END -->
 
 ---
