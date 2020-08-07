@@ -50,17 +50,14 @@ No Activity tracked this Week
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-- [Day #3 - Client Development](https://www.youtube.com/watch?v=u42-501oxQ4)
-- [Sneakpeak #2 - Client Development](https://www.youtube.com/watch?v=bRAsGe3oKrg)
-- [Day #2 - Client Development](https://www.youtube.com/watch?v=edXhZIjdceM)
-- [Day #1 - Client Development](https://www.youtube.com/watch?v=xy1Z77iuLWE)
+```text
+Disabled...
+```
 <!-- YOUTUBE:END -->
 
 ---
 
 <img align="left" alt="daanbreur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daanbreur&show_icons=true&hide_border=true" />
-
-
 
 [website]: https://daanbreur.systems
 [twitter]: https://twitter.com/portaalg
