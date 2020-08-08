@@ -1,8 +1,8 @@
 ### Hi there, I'm [Daan][website] 👋
 
-- 🔭 I’m currently working on ChatBlocks
-- 🌱 I’m currently learning Vue, React
-- 👯 I’m collaborating on [ChatBlocks](http://github.com/Instafluff/ChatBlocks) by [@Instafluff](http://github.com/Instafluff). 
+- 🔭 I’m currently working on **[ChatBlocks][chatblocksCode]**.
+- 🌱 I’m currently learning Vue, React.
+- 👯 I’m collaborating on **[ChatBlocks][chatblocksProd]** by **[@Instafluff][instafluff]**. 
 
 
 ### Connect with me:
@@ -36,11 +36,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   34 mins         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-YAML         34 mins         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Markdown     26 mins         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-JSX          12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-JSON         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+disabled
 ```
 <!--END_SECTION:waka-->
 
@@ -48,17 +44,18 @@ JSON         9 mins          ██░░░░░░░░░░░░░░░
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
-- [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
+```text
+disabled
+```
 <!-- BLOG:END -->
 
 <br />
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-- [Day #3 - Client Development](https://www.youtube.com/watch?v=u42-501oxQ4)
-- [Sneakpeak #2 - Client Development](https://www.youtube.com/watch?v=bRAsGe3oKrg)
-- [Day #2 - Client Development](https://www.youtube.com/watch?v=edXhZIjdceM)
-- [Day #1 - Client Development](https://www.youtube.com/watch?v=xy1Z77iuLWE)
+```text
+disabled
+```
 <!-- YOUTUBE:END -->
 
 ---
@@ -68,3 +65,6 @@ JSON         9 mins          ██░░░░░░░░░░░░░░░
 [website]: https://daanbreur.systems
 [twitter]: https://twitter.com/portaalg
 [youtube]: https://youtube.com/channel/UCGWs9foruVqIoEf2sLBfJAg
+[instafluff]: http://github.com/Instafluff
+[chatblocksProd]: https://instafluff.tv/ChatBlocks
+[chatblocksCode]: https://github.com/instafluff/ChatBlocks
