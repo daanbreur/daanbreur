@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ChatBlocks
 - 🌱 I’m currently learning Vue, React
-- 👯 I’m collaborating on [ChatBlocks](http://github.com/Instafluff/ChatBlocks) by [@Instafluff](http://github.com/Instafluff). See [My Fork](http://github.com/daanbreur/ChatBlocks) to see what i added :D
+- 👯 I’m collaborating on [ChatBlocks](http://github.com/Instafluff/ChatBlocks) by [@Instafluff](http://github.com/Instafluff). 
 
 
 ### Connect with me:
