@@ -16,5 +16,5 @@ jobs:
           comment_tag_name: "BLOG"
           feed_list: "https://dev.to/feed/daanbreur"
           commit_message: "Updated blogposts"
-          committer_username: "blogposter"
+          committer_username: "ReadmeBot"
           committer_email: "bots@daanbreur.systems"
