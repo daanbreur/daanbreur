@@ -49,9 +49,7 @@ Other        14 mins         █░░░░░░░░░░░░░░░░
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
-```text
-ERR: no data found
-```
+- [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
 <!-- BLOG:END -->
 
 <br />
