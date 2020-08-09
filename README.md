@@ -10,7 +10,8 @@
 [<img align="left" alt="daanbreur.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="daanbreur | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="daanbreur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="daanbreur | Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />](https://dev.to/daanbreur)
+[<img align="left" alt="daanbreur | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="daanbreur | Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devto]
 
 <br />
 
@@ -36,11 +37,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 11 mins   ████████████░░░░░░░░░░░░░   50.86 % 
-YAML         34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Markdown     26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Bash         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+ERR: no data found
 ```
 <!--END_SECTION:waka-->
 
@@ -48,17 +45,18 @@ Other        14 mins         █░░░░░░░░░░░░░░░░
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
-- [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
+```text
+ERR: no data found
+```
 <!-- BLOG:END -->
 
 <br />
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-- [Day #3 - Client Development](https://www.youtube.com/watch?v=u42-501oxQ4)
-- [Sneakpeak #2 - Client Development](https://www.youtube.com/watch?v=bRAsGe3oKrg)
-- [Day #2 - Client Development](https://www.youtube.com/watch?v=edXhZIjdceM)
-- [Day #1 - Client Development](https://www.youtube.com/watch?v=xy1Z77iuLWE)
+```text
+ERR: no data found
+```
 <!-- YOUTUBE:END -->
 
 ---
@@ -67,7 +65,10 @@ Other        14 mins         █░░░░░░░░░░░░░░░░
 
 [website]: https://daanbreur.systems
 [twitter]: https://twitter.com/portaalg
+[twitch]: https://twitch.tv/portaalgaming
 [youtube]: https://youtube.com/channel/UCGWs9foruVqIoEf2sLBfJAg
+[devto]: https://dev.to/daanbreur
 [instafluff]: http://github.com/Instafluff
+
 [chatblocksProd]: https://instafluff.tv/ChatBlocks
 [chatblocksCode]: https://github.com/instafluff/ChatBlocks
