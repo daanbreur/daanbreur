@@ -1,3 +1,5 @@
+![header](https://raw.githubusercontent.com/daanbreur/daanbreur/master/header.svg)
+
 ### Hi there, I'm [Daan][website] 👋
 
 - 🔭 I’m currently working on **[ChatBlocks][chatblocksCode]**.
