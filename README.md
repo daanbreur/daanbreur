@@ -67,6 +67,7 @@ YAML         15 mins         █▒░░░░░░░░░░░░░░░
 ---
 
 <img align="left" alt="daanbreur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daanbreur&show_icons=true&hide_border=true" />
+<img align="left" alt="daanbreur's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanbreur&layout=compact&hide_border=true />
 
 [website]: https://daanbreur.systems
 [twitter]: https://twitter.com/portaalg
