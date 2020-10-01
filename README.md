@@ -52,6 +52,7 @@ PowerShell   4 mins          ▒░░░░░░░░░░░░░░░░
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
 - [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
+- [Welcome to my Portfolio!](https://github.daanbreur.systems/2019/01/29/hello-world/)
 <!-- BLOG:END -->
 
 <br />
