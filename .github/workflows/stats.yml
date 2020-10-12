@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  wakatime-update:
     name: Update stats
     runs-on: ubuntu-latest
     steps:
@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: daanbreur
           SHOW_TITLE: false
-  update-readme-with-youtube:
+  youtube-update:
     name: Update Latest YouTube Videos
     runs-on: ubuntu-latest
     steps:
@@ -29,7 +29,7 @@ jobs:
           committer_username: "ReadmeBot"
           committer_email: "bots@daanbreur.systems"
           gh_token: ${{ secrets.GH_TOKEN }}
-  update-readme-with-blog:
+  blogpost-update:
       name: Update Latest Blog Post
       runs-on: ubuntu-latest
       steps:
