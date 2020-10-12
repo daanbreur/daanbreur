@@ -1,14 +1,13 @@
-name: Update stats
+name: Update Readme
 
 on:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 */2 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  wakatime-update:
+    name: Update stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -17,3 +16,29 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: daanbreur
           SHOW_TITLE: false
+  youtube-update:
+    name: Update Latest YouTube Videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCGWs9foruVqIoEf2sLBfJAg"
+          commit_message: "Updated youtube videos"
+          committer_username: "ReadmeBot"
+          committer_email: "bots@daanbreur.systems"
+          gh_token: ${{ secrets.GH_TOKEN }}
+  blogpost-update:
+      name: Update Latest Blog Post
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: gautamkrishnar/blog-post-workflow@master
+          with:
+            comment_tag_name: "BLOG"
+            feed_list: "https://dev.to/feed/daanbreur, https://github.daanbreur.systems/feed.xml"
+            commit_message: "Updated blogposts"
+            committer_username: "ReadmeBot"
+            committer_email: "bots@daanbreur.systems"
+            gh_token: ${{ secrets.GH_TOKEN }}
