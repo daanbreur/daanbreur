@@ -51,9 +51,7 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
-```text
-NO DATA FOUND
-```
+- [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
 <!-- BLOG:END -->
 
 <br />
