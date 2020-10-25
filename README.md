@@ -39,11 +39,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Other        2 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.61 % 
-JavaScript   1 hr 23 mins    ███████▒░░░░░░░░░░░░░░░░░   29.54 % 
-HTML         43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-CSS          22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+NO DATA FOUND
 ```
 <!--END_SECTION:waka-->
 
@@ -51,17 +47,18 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
-- [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
+```text
+NO DATA FOUND
+```
 <!-- BLOG:END -->
 
 <br />
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-- [Day #3 - Client Development](https://www.youtube.com/watch?v=u42-501oxQ4)
-- [Sneakpeak #2 - Client Development](https://www.youtube.com/watch?v=bRAsGe3oKrg)
-- [Day #2 - Client Development](https://www.youtube.com/watch?v=edXhZIjdceM)
-- [Day #1 - Client Development](https://www.youtube.com/watch?v=xy1Z77iuLWE)
+```text
+NO DATA FOUND
+```
 <!-- YOUTUBE:END -->
 
 ---
