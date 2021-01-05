@@ -55,7 +55,7 @@ AutoHotkey   40 mins         ████████▒░░░░░░░░
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-- [Small Firework Show | Fireworks Mania #1](https://www.youtube.com/watch?v=OU4ElWbOQ1I)
+- [Small Fireworks Show | Fireworks Mania #1](https://www.youtube.com/watch?v=YP2lj5YG98k)
 - [Single Shot MachineGun | Fireworks Mania](https://www.youtube.com/watch?v=d2WeaBxqQ4c)
 - [Day #3 - Client Development](https://www.youtube.com/watch?v=u42-501oxQ4)
 - [Sneakpeak #2 - Client Development](https://www.youtube.com/watch?v=bRAsGe3oKrg)
