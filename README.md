@@ -1,8 +1,8 @@
 
 ### Hi there, I'm [Daan][website] 👋
 
-- 🔭 I’m currently working on **AdventofCode**.
-- 🌱 I’m currently learning Python, Vue, React.
+- 🔭 I’m currently working on **FMenu**.
+- 🌱 I’m currently learning SQL, React.
 - 👯 I’m collaborating on **[ChatBlocks][chatblocksProd]** by **[@Instafluff][instafluff]**. 
 
 
