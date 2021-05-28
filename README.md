@@ -50,6 +50,10 @@ CSS        43 mins         ██▓░░░░░░░░░░░░░░�
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
+- [[Writeup] Pentesting | XSS in the Pixelplush Scoreboard](https://blog.daanbreur.systems/2021/05/25/PixelPlush-Scoreboard-XSS.html)
+- [[Writeup] CyberApocolypse 2021 | Authenticator](https://blog.daanbreur.systems/2021/04/24/CA2021-Authenticator.html)
+- [[Writeup] CyberApocolypse 2021 | Wild Goose Hunt](https://blog.daanbreur.systems/2021/04/24/CA2021-WildGooseHunt.html)
+- [[Writeup] TryHackMe | VulnNet: dotpy](https://blog.daanbreur.systems/2021/04/11/thm-vulnnetDotpy.html)
 - [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
 <!-- BLOG:END -->
 
