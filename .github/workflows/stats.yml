@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  wakatime-update:
+  update-wakatime:
     name: Update stats
     runs-on: ubuntu-latest
     steps:
@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: daanbreur
           SHOW_TITLE: false
-  youtube-update:
+  update-youtube:
     name: Update Latest YouTube Videos
     runs-on: ubuntu-latest
     steps:
@@ -29,7 +29,7 @@ jobs:
           committer_username: "ReadmeBot"
           committer_email: "bots@daanbreur.systems"
           gh_token: ${{ secrets.GH_TOKEN }}
-  blogpost-update:
+  update-blogpost:
       name: Update Latest Blog Post
       runs-on: ubuntu-latest
       steps:
@@ -37,8 +37,21 @@ jobs:
         - uses: gautamkrishnar/blog-post-workflow@master
           with:
             comment_tag_name: "BLOG"
-            feed_list: "https://dev.to/feed/daanbreur, https://github.daanbreur.systems/feed.xml, https://blog.daanbreur.systems/feed.xml"
+            feed_list: "https://dev.to/feed/daanbreur, https://github.daanbreur.systems/feed.xml"
             commit_message: "Updated blogposts"
+            committer_username: "ReadmeBot"
+            committer_email: "bots@daanbreur.systems"
+            gh_token: ${{ secrets.GH_TOKEN }}
+  update-writeup:
+      name: Update Writeup List
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: gautamkrishnar/blog-post-workflow@master
+          with:
+            comment_tag_name: "WRITEUP"
+            feed_list: "https://blog.daanbreur.systems/feed.xml"
+            commit_message: "Updated writeups"
             committer_username: "ReadmeBot"
             committer_email: "bots@daanbreur.systems"
             gh_token: ${{ secrets.GH_TOKEN }}
