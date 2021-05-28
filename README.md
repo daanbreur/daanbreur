@@ -44,7 +44,10 @@
 
 🐱‍💻 **Latest Writeups**
 <!-- WRITEUP:START -->
-**Please wait for next update**
+- [[Writeup] Pentesting | XSS in the Pixelplush Scoreboard](https://blog.daanbreur.systems/2021/05/25/PixelPlush-Scoreboard-XSS.html)
+- [[Writeup] CyberApocolypse 2021 | Authenticator](https://blog.daanbreur.systems/2021/04/24/CA2021-Authenticator.html)
+- [[Writeup] CyberApocolypse 2021 | Wild Goose Hunt](https://blog.daanbreur.systems/2021/04/24/CA2021-WildGooseHunt.html)
+- [[Writeup] TryHackMe | VulnNet: dotpy](https://blog.daanbreur.systems/2021/04/11/thm-vulnnetDotpy.html)
 <!-- WRITEUP:END -->
 
 <br />
