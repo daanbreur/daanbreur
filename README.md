@@ -60,7 +60,7 @@ CSS        43 mins         ██▓░░░░░░░░░░░░░░�
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
-**Please wait for next update**
+- [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
 <!-- BLOG:END -->
 
 <br />
