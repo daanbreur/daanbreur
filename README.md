@@ -37,35 +37,28 @@
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-```text
-YAML       2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.29 % 
-Markdown   1 hr 42 mins    ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-HTML       58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Ruby       47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-CSS        43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-```
+**Please wait for next update**
 <!--END_SECTION:waka-->
+
+<br />
+
+🐱‍💻 **Latest Writeups**
+<!-- WRITEUP:START -->
+**Please wait for next update**
+<!-- WRITEUP:END -->
 
 <br />
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
-- [[Writeup] Pentesting | XSS in the Pixelplush Scoreboard](https://blog.daanbreur.systems/2021/05/25/PixelPlush-Scoreboard-XSS.html)
-- [[Writeup] CyberApocolypse 2021 | Authenticator](https://blog.daanbreur.systems/2021/04/24/CA2021-Authenticator.html)
-- [[Writeup] CyberApocolypse 2021 | Wild Goose Hunt](https://blog.daanbreur.systems/2021/04/24/CA2021-WildGooseHunt.html)
-- [[Writeup] TryHackMe | VulnNet: dotpy](https://blog.daanbreur.systems/2021/04/11/thm-vulnnetDotpy.html)
-- [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
+**Please wait for next update**
 <!-- BLOG:END -->
 
 <br />
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-- [Lets Add Localization | FMenu | Unity ModMenu Devlog #1](https://www.youtube.com/watch?v=e9bNOMK9Uic)
-- [How to use the automation? | Fireworks Mania](https://www.youtube.com/watch?v=uls_CAJnTDs)
-- [Small Fireworks Show | Fireworks Mania #1](https://www.youtube.com/watch?v=YP2lj5YG98k)
-- [Single Shot MachineGun | Fireworks Mania](https://www.youtube.com/watch?v=d2WeaBxqQ4c)
-- [Day #3 - Client Development](https://www.youtube.com/watch?v=u42-501oxQ4)
+**Please wait for next update**
 <!-- YOUTUBE:END -->
 
 ---
