@@ -67,7 +67,11 @@ CSS        43 mins         ██▓░░░░░░░░░░░░░░�
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-**Please wait for next update**
+- [Lets Add Localization | FMenu | Unity ModMenu Devlog #1](https://www.youtube.com/watch?v=e9bNOMK9Uic)
+- [How to use the automation? | Fireworks Mania](https://www.youtube.com/watch?v=uls_CAJnTDs)
+- [Small Fireworks Show | Fireworks Mania #1](https://www.youtube.com/watch?v=YP2lj5YG98k)
+- [Single Shot MachineGun | Fireworks Mania](https://www.youtube.com/watch?v=d2WeaBxqQ4c)
+- [Day #3 - Client Development](https://www.youtube.com/watch?v=u42-501oxQ4)
 <!-- YOUTUBE:END -->
 
 ---
