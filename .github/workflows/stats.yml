@@ -37,7 +37,7 @@ jobs:
         - uses: gautamkrishnar/blog-post-workflow@master
           with:
             comment_tag_name: "BLOG"
-            feed_list: "https://dev.to/feed/daanbreur, https://github.daanbreur.systems/feed.xml"
+            feed_list: "https://dev.to/feed/daanbreur, https://github.daanbreur.systems/feed.xml, https://blog.daanbreur.systems/feed.xml"
             commit_message: "Updated blogposts"
             committer_username: "ReadmeBot"
             committer_email: "bots@daanbreur.systems"
