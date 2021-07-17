@@ -66,8 +66,8 @@ JSON         33 mins         ▓░░░░░░░░░░░░░░░░
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-- [Setting up the tools | Learning HTML #1](https://www.youtube.com/watch?v=HTYNkADFMTE)
 - [The basics | Learning HTML #2](https://www.youtube.com/watch?v=wKJOgaol0Yg)
+- [Setting up the tools | Learning HTML #1](https://www.youtube.com/watch?v=HTYNkADFMTE)
 - [Lets Add Localization | FMenu | Unity ModMenu Devlog #1](https://www.youtube.com/watch?v=e9bNOMK9Uic)
 - [How to use the automation? | Fireworks Mania](https://www.youtube.com/watch?v=uls_CAJnTDs)
 - [Small Fireworks Show | Fireworks Mania #1](https://www.youtube.com/watch?v=YP2lj5YG98k)
