@@ -82,7 +82,7 @@ JSON         33 mins         ▓░░░░░░░░░░░░░░░░
 [twitch]: https://twitch.tv/portaalgaming
 [youtube]: https://youtube.com/channel/UCGWs9foruVqIoEf2sLBfJAg
 [devto]: https://dev.to/daanbreur
-[instafluff]: http://github.com/Instafluff
 
+[instafluff]: http://github.com/Instafluff
 [chatblocksProd]: https://instafluff.tv/ChatBlocks
 [chatblocksCode]: https://github.com/instafluff/ChatBlocks
