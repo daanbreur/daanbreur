@@ -1,10 +1,10 @@
 
 ### Hi there, I'm [Daan][website] 👋
 
-- 🔭 I’m currently working on **FMenu**.
-- 🌱 I’m currently learning SQL, React.
-- 👯 I’m collaborating on **[ChatBlocks][chatblocksProd]** by **[@Instafluff][instafluff]**. 
-
+Learning hacking and coding. Mainly using nodejs and python, but currently learning SQL. </br>
+Projects I have contributed to are:
+- [Duinocoin](https://github.com/revoxhere/duino-coin) by **[Revox](https://github.com/revoxhere)**
+- [ChatBlocks][chatblocksCode] ([Website][chatblocksProd]) by **[@Instafluff][instafluff]**
 
 ### Connect with me:
 
@@ -78,6 +78,7 @@ JSON         33 mins         ▓░░░░░░░░░░░░░░░░
 <img align="left" alt="daanbreur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daanbreur&show_icons=true&hide_border=true" />
 
 [website]: https://daanbreur.systems
+[blog]: https://blog.daanbreur.systems
 [twitter]: https://twitter.com/portaalg
 [twitch]: https://twitch.tv/portaalgaming
 [youtube]: https://youtube.com/channel/UCGWs9foruVqIoEf2sLBfJAg
