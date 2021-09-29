@@ -40,7 +40,7 @@ Projects I have contributed to are:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TeX     38 mins         ████████████████████████▓   98.12 % 
 ```
 <!--END_SECTION:waka-->
 
