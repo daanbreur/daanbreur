@@ -32,24 +32,8 @@ jobs:
           committer_username: "ReadmeBot"
           committer_email: "bots@daanbreur.systems"
           gh_token: ${{ secrets.GH_TOKEN }}
-  update-blogpost:
-      needs: [update-wakatime, update-youtube]
-      name: Update Latest Blog Post
-      runs-on: ubuntu-latest
-      steps:
-        - name: Clone repository
-          uses: actions/checkout@v2
-        - name: Update Blogpost List
-          uses: gautamkrishnar/blog-post-workflow@master
-          with:
-            comment_tag_name: "BLOG"
-            feed_list: "https://dev.to/feed/daanbreur, https://github.daanbreur.systems/feed.xml"
-            commit_message: "Updated blogposts"
-            committer_username: "ReadmeBot"
-            committer_email: "bots@daanbreur.systems"
-            gh_token: ${{ secrets.GH_TOKEN }}
   update-writeup:
-      needs: [update-wakatime, update-youtube, update-blogpost]
+      needs: update-wakatime
       name: Update Writeup List
       runs-on: ubuntu-latest
       steps:
