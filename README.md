@@ -59,13 +59,6 @@ Other      42 mins         █████████████████�
 
 <br />
 
-📕 **Latest Blog Posts**
-<!-- BLOG:START -->
-- [Learning Javascript as a Beginner](https://dev.to/daanbreur/learning-javascript-as-a-beginner-5ekk)
-<!-- BLOG:END -->
-
-<br />
-
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
 - [The basics | Learning HTML #2](https://www.youtube.com/watch?v=wKJOgaol0Yg)
