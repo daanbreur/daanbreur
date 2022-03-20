@@ -39,33 +39,21 @@ Projects I have contributed to are:
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-
-```text
-Other      42 mins         ████████████████████████▒   97.46 %
-```
-
+`NO DATA FOUND`
 <!--END_SECTION:waka-->
 
 <br />
 
 🐱‍💻 **Latest Writeups**
 <!-- WRITEUP:START -->
-- [[Writeup] UTCTF 2022 | Websockets?](https://blog.daanbreur.systems/2022/03/15/UTCTF2022-Websockets.html)
-- [[Writeup] HackTheBox | Delivery](https://blog.daanbreur.systems/2021/05/28/htb-Delivery.html)
-- [[Writeup] Pentesting | XSS in the Pixelplush Scoreboard](https://blog.daanbreur.systems/2021/05/25/PixelPlush-Scoreboard-XSS.html)
-- [[Writeup] CyberApocolypse 2021 | Wild Goose Hunt](https://blog.daanbreur.systems/2021/04/24/CA2021-WildGooseHunt.html)
-- [[Writeup] CyberApocolypse 2021 | Authenticator](https://blog.daanbreur.systems/2021/04/24/CA2021-Authenticator.html)
+`NO DATA FOUND`
 <!-- WRITEUP:END -->
 
 <br />
 
 📺 **Latest YouTube Videos**
 <!-- YOUTUBE:START -->
-- [The basics | Learning HTML #2](https://www.youtube.com/watch?v=wKJOgaol0Yg)
-- [Setting up the tools | Learning HTML #1](https://www.youtube.com/watch?v=HTYNkADFMTE)
-- [Lets Add Localization | FMenu | Unity ModMenu Devlog #1](https://www.youtube.com/watch?v=e9bNOMK9Uic)
-- [How to use the automation? | Fireworks Mania](https://www.youtube.com/watch?v=uls_CAJnTDs)
-- [Small Fireworks Show | Fireworks Mania #1](https://www.youtube.com/watch?v=YP2lj5YG98k)
+`NO DATA FOUND`
 <!-- YOUTUBE:END -->
 
 ---
