@@ -50,7 +50,11 @@ Other      42 mins         █████████████████�
 
 🐱‍💻 **Latest Writeups**
 <!-- WRITEUP:START -->
-`NO DATA FOUND`
+- [[Writeup] UTCTF 2022 | Websockets?](https://blog.daanbreur.systems/2022/03/15/UTCTF2022-Websockets.html)
+- [[Writeup] HackTheBox | Delivery](https://blog.daanbreur.systems/2021/05/28/htb-Delivery.html)
+- [[Writeup] Pentesting | XSS in the Pixelplush Scoreboard](https://blog.daanbreur.systems/2021/05/25/PixelPlush-Scoreboard-XSS.html)
+- [[Writeup] CyberApocolypse 2021 | Wild Goose Hunt](https://blog.daanbreur.systems/2021/04/24/CA2021-WildGooseHunt.html)
+- [[Writeup] CyberApocolypse 2021 | Authenticator](https://blog.daanbreur.systems/2021/04/24/CA2021-Authenticator.html)
 <!-- WRITEUP:END -->
 
 <br />
