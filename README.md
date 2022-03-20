@@ -39,7 +39,11 @@ Projects I have contributed to are:
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-`NO DATA FOUND`
+
+```text
+Other      42 mins         ████████████████████████▒   97.46 %
+```
+
 <!--END_SECTION:waka-->
 
 <br />
