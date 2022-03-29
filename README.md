@@ -41,7 +41,7 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Other        4 hrs 9 mins    ██████████████████▒░░░░░░   73.07 %
+Other        4 hrs 9 mins    ███████████████▓░░░░░░░░░   62.68 %
 ```
 
 <!--END_SECTION:waka-->
