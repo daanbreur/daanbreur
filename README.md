@@ -41,10 +41,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Python       9 hrs 59 mins   ███████████████▒░░░░░░░░░   61.32 %
-YAML         5 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   31.69 %
-RPMSpec      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Python       8 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.92 %
+YAML         7 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   40.82 %
+Nim          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+RPMSpec      40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Other        33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
