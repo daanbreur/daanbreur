@@ -41,9 +41,10 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 15 mins    ██████████████▒░░░░░░░░░░   57.41 %
-Git Config   28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
-Other        16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Python       1 hr 2 mins     █████████░░░░░░░░░░░░░░░░   36.26 %
+PHP          52 mins         ███████▓░░░░░░░░░░░░░░░░░   30.65 %
+Git Config   28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+Other        16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
 ```
 
 <!--END_SECTION:waka-->
