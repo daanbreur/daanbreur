@@ -41,10 +41,8 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Arduino   1 hr 42 mins    ████████████████████████▓   99.11 %
+Arduino   1 hr 42 mins    █████████████████████████   99.62 %
 JSON      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-XML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
