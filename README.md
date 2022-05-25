@@ -41,12 +41,12 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js        2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
-TypeScript    1 hr 54 mins    ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-JavaScript    1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   20.29 %
-Arduino       1 hr 20 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
-JSON          23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Git Config    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Vue.js        2 hrs 6 mins    ██████████░░░░░░░░░░░░░░░   39.55 %
+Arduino       1 hr 26 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+TypeScript    1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+Git Config    11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+C++           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+JavaScript    9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
