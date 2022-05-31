@@ -41,12 +41,12 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 41 mins   ███████████████░░░░░░░░░░   60.55 %
-TypeScript   50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
-CSS          20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Arduino      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-C++          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JavaScript     2 hrs 41 mins   █████████████▓░░░░░░░░░░░   55.21 %
+TeX            1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
+CSS            20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+TypeScript     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+OpenEdge ABL   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Arduino        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
