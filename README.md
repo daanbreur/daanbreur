@@ -41,10 +41,9 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript     5 hrs 29 mins   ██████████████████▒░░░░░░   73.57 %
-TeX            1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-CSS            24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Other          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+JavaScript     7 hrs 6 mins    ██████████████████░░░░░░░   71.84 %
+TeX            1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+Other          1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
 ```
 
 <!--END_SECTION:waka-->
