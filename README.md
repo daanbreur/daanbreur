@@ -41,11 +41,8 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-HTML         59 mins         ██████████████░░░░░░░░░░░   55.92 %
-JavaScript   45 mins         ██████████▓░░░░░░░░░░░░░░   42.96 %
-Git          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+HTML         11 mins         ███████████████▓░░░░░░░░░   62.23 %
+JavaScript   6 mins          █████████▒░░░░░░░░░░░░░░░   37.77 %
 ```
 
 <!--END_SECTION:waka-->
