@@ -41,8 +41,7 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   1 min           ███████████████████▓░░░░░   78.43 %
-Other        0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
