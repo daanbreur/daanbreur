@@ -41,7 +41,12 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Vue.js       20 mins         ██████████████████▓░░░░░░   75.32 %
+TypeScript   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+JavaScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
