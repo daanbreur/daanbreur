@@ -41,8 +41,8 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript     10 hrs 19 mins  ███████████████████▓░░░░░   78.55 %
-Other          1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+TypeScript     8 hrs 4 mins    ███████████████████░░░░░░   75.82 %
+Other          1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
 ```
 
 <!--END_SECTION:waka-->
