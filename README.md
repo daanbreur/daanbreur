@@ -41,8 +41,9 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-C++   14 mins         ██████████████████████░░░   87.44 %
-TeX   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+C++    27 mins         ███████████████████████░░   92.54 %
+TeX    2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
