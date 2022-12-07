@@ -41,12 +41,8 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Rust         7 hrs 48 mins   █████████████████████░░░░   83.71 %
-Java         51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-Text         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Python       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-TOML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Rust         10 hrs 15 mins  ████████████████████▓░░░░   83.30 %
+Other        1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
 ```
 
 <!--END_SECTION:waka-->
