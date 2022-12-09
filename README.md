@@ -41,8 +41,8 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Rust            11 hrs 7 mins   ████████████████████▓░░░░   82.60 %
-Other           1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Rust            15 hrs 39 mins  █████████████████████▓░░░   86.92 %
+Other           1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
 ```
 
 <!--END_SECTION:waka-->
