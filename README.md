@@ -41,12 +41,10 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Java             32 mins         █████████░░░░░░░░░░░░░░░░   36.51 %
-XML              28 mins         ████████░░░░░░░░░░░░░░░░░   31.96 %
-Properties       26 mins         ███████▒░░░░░░░░░░░░░░░░░   28.94 %
-Markdown         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+XML          15 mins         ████████████████▓░░░░░░░░   66.12 %
+Java         8 mins          ████████▒░░░░░░░░░░░░░░░░   33.80 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
