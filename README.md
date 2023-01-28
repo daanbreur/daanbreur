@@ -41,9 +41,9 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   4 hrs 4 mins    ██████████████▓░░░░░░░░░░   58.97 %
-C++        2 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   32.09 %
-Other      30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Markdown   4 hrs 4 mins    ████████████████▒░░░░░░░░   64.80 %
+C++        1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
+Other      30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
 ```
 
 <!--END_SECTION:waka-->
