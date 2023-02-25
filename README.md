@@ -41,10 +41,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-TeX            42 mins         ████████████████████████▓   98.03 %
-OpenEdge ABL   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Java         3 mins          █████████████████████░░░░   83.85 %
+TypeScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+XML          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
