@@ -62,13 +62,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 - [[Writeup] CyberApocolypse 2021 | Authenticator](https://blog.daanbreur.systems/2021/04/24/CA2021-Authenticator.html)
 <!-- WRITEUP:END -->
 
-<br />
-
-📺 **Latest YouTube Videos**
-<!-- YOUTUBE:START -->
-`NO DATA FOUND`
-<!-- YOUTUBE:END -->
-
 ---
 
 <img align="left" alt="daanbreur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daanbreur&show_icons=true&hide_border=true" />
