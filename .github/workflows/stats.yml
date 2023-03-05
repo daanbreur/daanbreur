@@ -2,7 +2,7 @@ name: Update Readme
 
 on:
   schedule:
-    - cron: '0 0 * * */1'
+    - cron: '0 0 * * 0'
   workflow_dispatch:
 
 jobs:
@@ -16,22 +16,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: false
-  update-youtube:
-    needs: update-wakatime
-    name: Update Latest YouTube Videos
-    runs-on: ubuntu-latest
-    steps:
-      - name: Clone repository
-        uses: actions/checkout@v2
-      - name: Update Youtube List
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCGWs9foruVqIoEf2sLBfJAg"
-          commit_message: "Updated youtube videos"
-          committer_username: "ReadmeBot"
-          committer_email: "bots@daanbreur.systems"
-          gh_token: ${{ secrets.GH_TOKEN }}
   update-writeup:
       needs: update-wakatime
       name: Update Writeup List
@@ -43,7 +27,7 @@ jobs:
           uses: gautamkrishnar/blog-post-workflow@master
           with:
             comment_tag_name: "WRITEUP"
-            feed_list: "https://blog.daanbreur.systems/feed.xml"
+            feed_list: "https://blog.daanbreur.systems/post/index.xml"
             commit_message: "Updated writeups"
             committer_username: "ReadmeBot"
             committer_email: "bots@daanbreur.systems"
