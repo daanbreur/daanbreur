@@ -41,8 +41,7 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 29 mins    █████████████████████████   99.46 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   40 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
