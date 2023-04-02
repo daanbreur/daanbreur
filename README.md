@@ -41,11 +41,10 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     39 mins         ████████████▒░░░░░░░░░░░░   49.06 %
-JavaScript   24 mins         ███████▓░░░░░░░░░░░░░░░░░   30.42 %
-PHP          8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-C            6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Markdown     2 hrs 9 mins    ██████████████▒░░░░░░░░░░   56.86 %
+Java         1 hr 27 mins    █████████▓░░░░░░░░░░░░░░░   38.66 %
+XML          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
