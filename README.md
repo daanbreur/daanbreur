@@ -54,10 +54,10 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 🐱‍💻 **Latest Writeups**
 <!-- WRITEUP:START -->
 - [CyberApocalypse 2023 | Persistence](https://blog.daanbreur.systems/post/CA2023-Persistence/)
+- [CyberApocalypse 2023 | Remote Computation](https://blog.daanbreur.systems/post/CA2023-RemoteComputation/)
+- [CyberApocalypse 2023 | Restricted](https://blog.daanbreur.systems/post/CA2023-Restricted/)
 - [CyberApocalypse 2023 | Trapped Source](https://blog.daanbreur.systems/post/CA2023-TrappedSource/)
 - [HackTheBox | Photobomb](https://blog.daanbreur.systems/post/htb-Photobomb/)
-- [HackTheBox | Secret](https://blog.daanbreur.systems/post/htb-Secret/)
-- [UTCTF 2022 | Websockets?](https://blog.daanbreur.systems/post/UTCTF2022-Websockets/)
 <!-- WRITEUP:END -->
 
 ---
