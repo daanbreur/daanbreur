@@ -41,9 +41,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 31 mins   ████████████████████▒░░░░   81.81 %
-YAML         33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TeX          28 mins         █████████▓░░░░░░░░░░░░░░░   39.06 %
+YAML         23 mins         ████████░░░░░░░░░░░░░░░░░   32.53 %
+Bash         13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+Docker       5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
