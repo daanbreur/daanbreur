@@ -41,8 +41,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            1 hr 53 mins    ████████████████████████▓   99.05 %
-OpenEdge ABL   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+YAML         1 hr 30 mins    █████████████████▒░░░░░░░   69.37 %
+TeX          19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+TypeScript   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Markdown     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
