@@ -41,11 +41,10 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     2 hrs 2 mins    ███████████████▓░░░░░░░░░   63.11 %
-Solidity       33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-TSQL           21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-ActionScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TypeScript   1 hr 20 mins    █████████████████████████   99.47 %
+TSQL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Elixir       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
