@@ -8,8 +8,6 @@ Projects I have contributed to are:
 - [Vaf](https://github.com/d4rckh/vaf) by **[@d4rckh](https://github.com/d4rckh)**
 - And many more
 
-<br />
-<br />
 
 ---
 
