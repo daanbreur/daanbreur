@@ -27,8 +27,8 @@ jobs:
           uses: gautamkrishnar/blog-post-workflow@master
           with:
             comment_tag_name: "WRITEUP"
-            feed_list: "https://blog.daanbreur.systems/post/index.xml"
+            feed_list: "https://blog.daanbreur.systems/post/index.xml,https://blog.duckz.org/post/index.xml"
             commit_message: "Updated writeups"
-            committer_username: "ReadmeBot"
-            committer_email: "bots@daanbreur.systems"
+            committer_username: "Cute little readme bot"
+            committer_email: "git@daanbreur.systems"
             gh_token: ${{ secrets.GH_TOKEN }}
