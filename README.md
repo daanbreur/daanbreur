@@ -1,12 +1,12 @@
 
 ### Hi there, I'm [Daan][website] 👋
 
-Learning hacking and coding. Mainly using nodejs and python, but currently learning SQL. </br>
+Learning hacking and coding. Mainly using Javascript and Python, but sometimes also Rust. </br>
 Projects I have contributed to are:
-- [Duinocoin](https://github.com/revoxhere/duino-coin) by **[@revoxhere](https://github.com/revoxhere)**
 - [ChatBlocks][chatblocksCode] ([Website][chatblocksProd]) by **[@instafluff](https://github.com/instafluff)**
 - [Vaf](https://github.com/d4rckh/vaf) by **[@d4rckh](https://github.com/d4rckh)**
-- And many more
+- [Duinocoin](https://github.com/revoxhere/duino-coin) by **[@revoxhere](https://github.com/revoxhere)**
+- But also many more
 
 
 ---
