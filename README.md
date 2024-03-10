@@ -15,11 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 29 mins   █████████████░░░░░░░░░░░░   52.23 %
-Prisma       1 hr 56 mins    ██████████░░░░░░░░░░░░░░░   40.58 %
-JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-SQL          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TypeScript   2 hrs 21 mins   █████████████▓░░░░░░░░░░░   55.23 %
+Text         1 hr 2 mins     ██████░░░░░░░░░░░░░░░░░░░   24.46 %
+Bash         27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+JSON         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
