@@ -15,11 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 23 mins   ████████████████████████░   96.08 %
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python             1 hr 19 mins    ███████████▓░░░░░░░░░░░░░   46.42 %
+C                  38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
+Vue.js             16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Markdown           14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Git Config         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
 ```
 
 <!--END_SECTION:waka-->
