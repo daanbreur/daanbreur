@@ -15,7 +15,7 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
