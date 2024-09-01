@@ -15,7 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Astro      17 mins         ████████████████████████░   95.86 %
+C++        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+CSS        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
