@@ -15,11 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.36 %
-Pug          1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-C            1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-TypeScript   1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-JSON         1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+JavaScript   7 hrs 45 mins   ██████████████▓░░░░░░░░░░   58.49 %
+TypeScript   3 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+Pug          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+YAML         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
