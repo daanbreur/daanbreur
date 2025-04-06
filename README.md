@@ -15,11 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-C            7 hrs 22 mins   ██████████▓░░░░░░░░░░░░░░   42.47 %
-Go           4 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.07 %
-Python       2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Bash         1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Makefile     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+C             7 hrs 57 mins   ████████████░░░░░░░░░░░░░   48.30 %
+C++           3 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+Python        1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+JavaScript    1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+TypeScript    42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
