@@ -15,11 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       1 hr 29 mins    ███████░░░░░░░░░░░░░░░░░░   27.54 %
-TypeScript   1 hr 14 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-Python       36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-YAML         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Markdown     20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+JavaScript   2 hrs 19 mins   █████████░░░░░░░░░░░░░░░░   36.46 %
+Pug          1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+Bash         1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
+TypeScript   49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
