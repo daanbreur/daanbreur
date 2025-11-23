@@ -15,11 +15,7 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         7 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   46.48 %
-TypeScript   5 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   38.35 %
-XML          1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Kotlin       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
