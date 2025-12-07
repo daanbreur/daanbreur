@@ -15,11 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 30 mins    █████████▓░░░░░░░░░░░░░░░   39.33 %
-MDX          48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-Diff         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Python       20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-YAML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Rust         3 hrs 49 mins   ███████████████████▒░░░░░   77.32 %
+TypeScript   34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+TOML         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Python       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
