@@ -28,11 +28,11 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 
 🐱‍💻 **Latest Writeups**
 <!-- WRITEUP:START -->
+- [HackTheBox | Coder](https://blog.duckz.org/post/htb-Coder/)
+- [The Cyber Cooperative CTF 2023 | The Movie Blog](https://blog.duckz.org/post/cybercooperative2023-MovieBlog/)
+- [The Cyber Cooperative CTF 2023 | Valid YAML](https://blog.duckz.org/post/cybercooperative2023-ValidYaml/)
+- [HackTheBox | Explore](https://blog.duckz.org/post/htb-Explore/)
 - [CyberApocalypse 2023 | Persistence](https://blog.daanbreur.systems/post/CA2023-Persistence/)
-- [CyberApocalypse 2023 | Remote Computation](https://blog.daanbreur.systems/post/CA2023-RemoteComputation/)
-- [CyberApocalypse 2023 | Restricted](https://blog.daanbreur.systems/post/CA2023-Restricted/)
-- [CyberApocalypse 2023 | Trapped Source](https://blog.daanbreur.systems/post/CA2023-TrappedSource/)
-- [HackTheBox | Photobomb](https://blog.daanbreur.systems/post/htb-Photobomb/)
 <!-- WRITEUP:END -->
 
 ---
