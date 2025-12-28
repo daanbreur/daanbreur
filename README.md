@@ -15,11 +15,10 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 38 mins   ██████████████████████▒░░   89.87 %
-JSON         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Text         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Terraform Template   1 hr 6 mins     ████████████▒░░░░░░░░░░░░   48.98 %
+Terraform            55 mins         ██████████░░░░░░░░░░░░░░░   40.52 %
+JSON                 12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+HCL                  1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
