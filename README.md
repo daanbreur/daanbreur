@@ -15,8 +15,7 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-Other       4 mins          ██████████████░░░░░░░░░░░   55.98 %
-Terraform   3 mins          ███████████░░░░░░░░░░░░░░   44.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
