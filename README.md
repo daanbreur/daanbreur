@@ -15,7 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform                  2 hrs 1 min     ████████████▒░░░░░░░░░░░░   49.92 %
+Markdown                   1 hr 1 min      ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+TypeScript                 11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Other                      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Bash                       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
