@@ -15,7 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       36 mins               ██████████▓░░░░░░░░░░░░░░   42.78 %
+JavaScript   32 mins               █████████▒░░░░░░░░░░░░░░░   37.89 %
+Other        16 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+Docker       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Prisma       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
