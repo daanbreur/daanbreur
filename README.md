@@ -15,7 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Zig          1 hr 10 mins          ██████████████▒░░░░░░░░░░   57.14 %
+Python       32 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+YAML         18 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+JavaScript   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
