@@ -15,11 +15,10 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          31 mins               ████████████████▒░░░░░░░░   64.73 %
-Other        7 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Vue.js       4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Markdown     4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Python       29 mins               ████████████████░░░░░░░░░   63.88 %
+JavaScript   16 mins               ████████▓░░░░░░░░░░░░░░░░   34.69 %
+Docker       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
