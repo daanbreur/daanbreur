@@ -15,10 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       29 mins               ████████████████░░░░░░░░░   63.88 %
-JavaScript   16 mins               ████████▓░░░░░░░░░░░░░░░░   34.69 %
-Docker       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JavaScript   1 hr 22 mins          █████████▓░░░░░░░░░░░░░░░   38.52 %
+Terraform    53 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
+Other        30 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Python       20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Markdown     8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
