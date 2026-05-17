@@ -15,7 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform    1 hr 27 mins          ██████████████████░░░░░░░   71.64 %
+Other        12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+Markdown     7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+JSON         6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Git Config   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
