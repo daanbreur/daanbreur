@@ -15,11 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    1 hr 27 mins          ██████████████████░░░░░░░   71.64 %
-Other        12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Markdown     7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-JSON         6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Git Config   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Razor                              3 hrs 7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+Terraform                          2 hrs 53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Python                             2 hrs 33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+C#                                 2 hrs 2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+YAML                               1 hr 49 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
 ```
 
 <!--END_SECTION:waka-->
