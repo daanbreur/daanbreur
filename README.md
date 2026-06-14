@@ -15,11 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      26 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
-Text                       21 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-HTML                       19 mins               █████░░░░░░░░░░░░░░░░░░░░   19.83 %
-Docker                     13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-Nginx configuration file   6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+YAML                       42 mins               ██████████▓░░░░░░░░░░░░░░   42.32 %
+Python                     17 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+TSV                        15 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+Markdown                   6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+JavaScript                 6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 ```
 
 <!--END_SECTION:waka-->
