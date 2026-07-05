@@ -15,10 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   32 mins               ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-Other        30 mins               ███████░░░░░░░░░░░░░░░░░░   28.14 %
-Markdown     27 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
-Python       16 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Java          1 hr 44 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
+Markdown      1 hr 35 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+Python        1 hr 8 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+Go            35 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Other         26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
