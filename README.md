@@ -15,11 +15,11 @@ Projects I have contributed to are:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     2 hrs 16 mins         ██████████▓░░░░░░░░░░░░░░   42.74 %
-Java                       59 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-JavaScript                 42 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-HTML                       40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-JSON                       10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Go                         3 hrs 39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+TypeScript                 3 hrs 38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Markdown                   3 hrs 25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Python                     2 hrs 51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Terraform                  1 hr 49 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
 ```
 
 <!--END_SECTION:waka-->
